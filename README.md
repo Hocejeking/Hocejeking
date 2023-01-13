@@ -1,3 +1,3 @@
-#5 19, In College - Applied Informatics / System Engineering.  
+19, In College - Applied Informatics / System Engineering.  
 Currently developing for - (www.KKRP.cz)  
-Currently developing unit tests for - (www.logeto.com)  
+Currently developing UI tests for - (www.logeto.com)  
